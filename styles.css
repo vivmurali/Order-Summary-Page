@@ -1,0 +1,108 @@
+body {
+    width:1440px;
+    
+    background-image: url(images/pattern-background-desktop.png);    
+    background-color: hsl(225, 100%, 94%);
+    background-size: 1500px  1000px;
+     
+}
+
+.main{
+    background-color: #FFFFFF;
+        width: 400px;
+        height: 600px;
+        margin: 7em auto;
+        border-radius: 1.5em;
+        box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+
+.parastyles{
+    font-size: 16px;
+    font-family:"Red Hat Display", sans-serif;
+    text-align: center;
+    
+}
+
+#button1{
+    background-color:  hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: hidden;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    width: 330px;
+}
+
+#button2{
+    background-color: white;
+    color: darkslategray;
+    border: hidden;
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+#hero{   
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px ;
+    width: 400px;
+}
+
+#ordersum{
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+#para{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    opacity: 65%;
+}
+
+.boxtwo{
+    border: solid black 1px hidden;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 100px;
+}
+
+#music{
+    float: left;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+#annual{
+    margin-right: 140px;
+    
+    
+    
+}
+
+#money{
+    opacity: 65%;   
+}
+
+#change{
+    float: right;
+    padding-top: 35px;
+    padding-right: 10px;
+    color: hsl(245, 75%, 52%);
+}
+
+.para{
+    padding-top: 23px;
+    float: left;
+    padding-left: 10px;
+}
