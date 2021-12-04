@@ -5,7 +5,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-[Design preview for the Order summary card coding challenge](./images/Screenshot (177).png)
+![Design preview for the Order summary card coding challenge](/images/Screenshot (177).png)
 
 
 ### Links
