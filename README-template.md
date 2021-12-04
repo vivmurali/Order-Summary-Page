@@ -10,8 +10,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ordersummarypage-frontendmentor.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/vivmurali/Order-Summary-Page/blob/main/styles.css)
+- Live Site URL: [Live site URL](https://ordersummarypage-frontendmentor.netlify.app/)
 
 
 
